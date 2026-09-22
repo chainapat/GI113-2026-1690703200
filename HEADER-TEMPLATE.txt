@@ -1,7 +1,7 @@
 /*
- * Student ID :
- * Name       :
- * Section    :
- * No.        :
+ * Student ID : 1690703200
+ * Name       : Chainapat Sakun
+ * Section    : 129C
+ * No.        : 29
  * Course     : GI113 Computer Programming (GI)
  */
